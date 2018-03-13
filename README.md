@@ -1,0 +1,2 @@
+# jobs_scrapy_redis_mysql_bloomfilter
+51job,liepin,zhilian,boss,lagou: scrapy_redis_mysqltwisted_bloomfilter_ipproxy_mongo 对scrapy_redis二次开发优化去重和url存储
